@@ -51,6 +51,16 @@ a {
    background-color: black;
    color: gold;
 }
+.or {
+      background-color: #0a0a0a; /* Dark Gray */
+      font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 50px;
+    }
+    
+.JS4   {
+   color: #39ff14; /* Neon Green */
+}
 .EG2 {
    height: 1000px;
 }
